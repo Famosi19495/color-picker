@@ -74,3 +74,11 @@ text-align: center;
     border: 2px solid black;
 }
 
+#purple{
+    background-color: purple;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+}
+
